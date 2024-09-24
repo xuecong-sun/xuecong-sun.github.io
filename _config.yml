@@ -21,7 +21,7 @@ repository               : "xuecong-sun/xuecong-sun.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "MyPhoto.png" # 首页头像，该文件必须为png格式，且上传至images文件夹内  
+  avatar           : "profile.png" # 首页头像，该文件必须为png格式，且上传至images文件夹内  
   name             : "Xuecong Sun (孙雪聪)"     
   pronouns         : # example: "she/her"   
   bio              : "PhD in Signal and Information Processing"
