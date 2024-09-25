@@ -8,21 +8,21 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://xuecong-sun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://xuecong-sun.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xuecong-sun/xuecong-sun.github.io"
+repository               : # "xuecong-sun/xuecong-sun.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "profile.png" # 首页头像，该文件必须为png格式，且上传至images文件夹内  
+  # Biographic information  
   name             : "Xuecong Sun (孙雪聪)"     
+  avatar           : "profile.png" # 首页头像，该文件必须为png格式，且上传至images文件夹内  
   pronouns         : # example: "she/her"   
   bio              : "PhD in Signal and Information Processing"
   location         : "New York, US"
