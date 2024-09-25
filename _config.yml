@@ -84,9 +84,9 @@ analytics:
 # Site Author
 author:
   name             : "Xuecong Sun (孙雪聪)"
-  avatar           : "MyPhoto.png"
-  bio              : "PhD in Signal and Information Processing"
-  location         : "Beijing, China"
+  avatar           : "MyPhoto.png"    
+  bio              : "Sound Signal Processing & Acoustic Metamaterials"
+  location         : "NY, US"
 #  employer         :  "Senior Algorithm Engineer at Huawei"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=7NFNTqIAAAAJ&hl=en"
